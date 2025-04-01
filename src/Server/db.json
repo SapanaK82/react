@@ -1,0 +1,32 @@
+{
+  "Employee": [
+    {
+      "id": "25e9",
+      "fname": "abc",
+      "lname": "xyz",
+      "dob": "2005/01/01",
+      "sal": "34567"
+    },
+    {
+      "fname": "abc",
+      "lname": "xyz",
+      "dob": "2005/01/01",
+      "sal": "3456777",
+      "id": "e710"
+    },
+    {
+      "id": "a0da",
+      "fname": "sap",
+      "lname": "xyz",
+      "dob": "22 march 2025",
+      "sal": "34567"
+    },
+    {
+      "id": "55eb",
+      "fname": "abc",
+      "lname": "xyz",
+      "dob": "2005/01/01",
+      "sal": "34567"
+    }
+  ]
+}
