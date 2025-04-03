@@ -18,8 +18,12 @@ const Show = () => {
 
   return (
     <div>
+
+     <thead>
+
         <table>
             <thead style={{color:red}}>
+
                 <tr>
                     <th>Sr No.</th>
                     <th>FIRST NAME</th>
