@@ -18,7 +18,7 @@ const Show = () => {
 
   return (
     <div>
-        <table>
+        <table style={{color:}}>
             <thead>
                 <tr>
                     <th>Sr No.</th>
